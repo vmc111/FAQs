@@ -1,0 +1,17 @@
+/* Write your code here. */
+.Faq-question-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.list-item {
+  padding: 5px 10px;
+  margin: 10px 0px;
+
+  border: solid 2px #e4e7eb;
+  border-radius: 8px;
+}
+.heading {
+  font-weight: 500;
+  font-size: 22px;
+}
