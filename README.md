@@ -1,5 +1,7 @@
 In this project, let's build a **Faqs App** by applying the concepts we have learned till now.
 
+<p> View Page <a href='https://vmcfaqs.ccbp.tech/' target="_blank">here</a></p>
+
 ### Refer to the image below:
 
 <br/>
